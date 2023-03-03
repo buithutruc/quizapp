@@ -1,0 +1,2 @@
+VS shortcuts on Mac
+Copy the current line to the line above or below: Mac — Shift + Option + Up/Down.
